@@ -2,7 +2,7 @@
 
 Fail CI when the skills, MCP servers, hooks, rules files or agent settings your AI coding agents load drift from `lockward.lock`, or break your policy. Works for Claude Code, Cursor, Codex, Gemini CLI, Windsurf and GitHub Copilot. Offline, no account, no LLM in the decision path.
 
-[Lockward](https://github.com/Breaktroughf1/lockward) is the tool; this repository is its GitHub Action.
+[Lockward](https://github.com/Breaktroughf1/lockward) is the tool; this repository is its GitHub Action, listed on the [GitHub Marketplace](https://github.com/marketplace/actions/lockward-verify).
 
 ## Usage
 
