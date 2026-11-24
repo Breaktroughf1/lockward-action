@@ -1,4 +1,4 @@
-name: Lockward
+name: Lockward Verify
 description: Fail CI when AI-agent skills, MCP servers, hooks or rules files drift from lockward.lock or break policy.
 author: Breaktrough
 branding:
